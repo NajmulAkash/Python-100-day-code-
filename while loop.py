@@ -7,11 +7,11 @@ while(count>0):
 else:
     print("Done the loop ")
 
-#increment the loop
-# value = 10
-# while(value<=0):
-#     print(value)
-#     value = value-1
+# increment the loop
+value = 10
+while(value<=0):
+    print(value)
+    value = value-1
 
 
 
