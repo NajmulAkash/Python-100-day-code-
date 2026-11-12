@@ -1,4 +1,9 @@
-def avarage():
-    print("The avarage is ",(a+b)/2)
 
-avarage(4,5)
+def show(a,b):
+    shows = (a+b)
+    print(shows)
+
+show(3,5)
+c=7
+d=5
+show(c,d)
