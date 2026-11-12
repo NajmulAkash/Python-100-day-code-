@@ -1,10 +1,10 @@
 #break statment
-# count = int(input("Enter you value : "))
-# while(count<=10):
-#     if(count == 7):
-#         break
-#     print(count)
-#     count = count +1
+count = int(input("Enter you value : "))
+while(count<=10):
+    if(count == 7):
+        break
+    print(count)
+    count = count +1
 
 #coutinous statment
 value = int(input("Enter you value : "))
