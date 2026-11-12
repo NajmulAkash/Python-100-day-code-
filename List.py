@@ -1,5 +1,5 @@
 #List in number
-l=[3,5,6,7,"Najmul",True]
+l=[3,5,6,7,"Najmul"]
 print(type(l))
 print(l)
 print(l[0])
