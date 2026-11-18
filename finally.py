@@ -8,3 +8,10 @@ def fun():
    finally:
     print("I am always excute !")
 x=fun()
+
+try:
+    b=[2,3,4,5,5]
+except:
+  print("Inviled value")
+finally:
+  print("i am always excute !")
