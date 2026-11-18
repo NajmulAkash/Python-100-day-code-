@@ -12,3 +12,4 @@ dictionaries={
              556677:"10th"
 }
 print(dictionaries[223344])
+print("yellow ", "red" , "orange" , "Pink" , "blue" , "purple" , "gray" , "Green" , "sky blue" , "")

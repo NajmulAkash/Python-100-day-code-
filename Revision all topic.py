@@ -70,3 +70,18 @@ if(a<b):
   print("A is less then B ")
 else:
   print("A is greater then B")
+
+  # dictionaries 
+  dic={
+    "name":"najmul balghari",
+    "father":"ejaz hussain",
+    "roll":"balghari"
+  }
+  print(dic[name])
+
+  # Dictionaries key value 
+  dictionaries={
+    1122:"najmul balghari",
+    2233:"ejaz hussain",
+    3344:"balghari"
+  }
