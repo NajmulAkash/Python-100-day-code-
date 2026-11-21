@@ -1,9 +1,15 @@
 
-st="Najmul is good boy"
+st = input("Enter message : ")
+words=st.split("")
 coding=True
 if(coding):
-  if(len(str)>=3):
-     str = st[1:] + st[0]
-     print(st)
+  nwords=[]
+  for word in words:
+   if(len(word)>=3):
+     r1="naj"
+     r2="mul"
+     stnew =r1+ word[1:] + word[0] +r2
+     nwords.append(stnew)
+     print("".join(nwords))
 else:
     pass
