@@ -12,7 +12,7 @@
 x=10 # global variable
 def functi():
     global x
-    x=4
+    x=5
     y=5 # local variables
     print(y)
 
