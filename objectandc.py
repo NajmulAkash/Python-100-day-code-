@@ -3,6 +3,6 @@ class person:
     skill =  "Python ai"
     network = 10
 a=person()
-a.name = "akash"
-a.skill = "web-development"
+a.name = "akash"# change hota ha
+a.skill = "web-development"# change hota ha
 print(a.name,a.skill)
