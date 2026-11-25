@@ -11,4 +11,5 @@ class programmer(Employee):
 e1 = Employee("najmul ",200)
 e1.showdetails()
 e2 = programmer("tajwar shaheen" ,400)
+
 e2.showlan()
